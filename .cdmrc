@@ -1,0 +1,2 @@
+tabs: ['contracts/DynamicArray.sol']
+terminals: ['yarn install']
